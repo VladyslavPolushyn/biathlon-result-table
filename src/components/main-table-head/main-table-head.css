@@ -1,0 +1,7 @@
+th.sortable span {
+  margin-left: 5px;
+}
+
+th.sortable span:hover {
+  cursor: pointer;
+}
